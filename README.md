@@ -1,11 +1,13 @@
 # Project2
 <!DOCTYPE html>
+
+<html lang="en"
+
+<meta charset="UTF-8">
+
 <html>
-<head>
-<meta charset="utf-8">
-</head>
 <body>
-<h1>Who am I</h1> <!--please come up with something better than this-->
+<h1 style="font-size:60px;">Fulfilled in Life and Continuing to Make it Better</h1> <!--please come up with something better than this-->
 <img src="C:\Users\npkau\Dropbox\PC\Desktop\kids.jpg" alt="meandtheboys"><img src="![boston](https://github.com/npkaufenberg/Project2/assets/165511887/20da7ed9-8001-4ce4-b0e3-14426afefac3)" alt="wifeandme">
 
   <!--remember to add more description and pics-->
