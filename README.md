@@ -1,27 +1,33 @@
 # Project2
 <!DOCTYPE html>
-
-<html lang="en"
-
+<html lang="en">
+<head>
 <meta charset="UTF-8">
-
-<html>
+<title>Nick Kaufenberg and his project webpage for LIS500 at the University of Wisconsin-Madison</title>
+</head>
 <body>
-<h1 style="color:red">Continually Working to Improve Myself</h1> <!--please come up with something better than this-->
-<img src="C:\Users\npkau\Dropbox\PC\Desktop\kids.jpg" alt="meandtheboys"><img src="![boston](https://github.com/npkaufenberg/Project2/assets/165511887/20da7ed9-8001-4ce4-b0e3-14426afefac3)" alt="wifeandme">
+<h1 style="color:red">Embracing Continuous Growth and Learning</h1>
+<!-- Add a more descriptive image path -->
+<img src="path_to_your_image_on_the_web" alt="Me and the boys">
+<img src="path_to_another_image_on_the_web" alt="My wife and me">
 
-  <!--remember to add more description and pics-->
-<p>My name is Nick Kaufenberg and I am a full time Airman in the United States Air Force working towards my Bachelors degree in Applied Social Sciences. I started my college career in Boston and transferred to Madison in 2002. After leaving in 2005, 11 credits short of my degree, I am finishing what I started. I am a married father of two boys, Roy and Malcolm (Mac) and my wife and I have been endlessly trying to keep our house clean to no avail! I am looking forward to colorful and meaningful discussion and learning about HTML and everything it is capable of during this course.<!--how can I make this more robust?-->
+<p>My name is Nick Kaufenberg, and I am an Airman in the United States Air Force, currently pursuing my Bachelor's degree in Applied Social Sciences. My academic journey began in Boston, transitioned to Madison, and now, after a brief hiatus, I am determined to complete my degree. As a devoted husband and father of two, Roy and Malcolm, my life is a beautiful chaos that never ceases to amaze me. This course is another step towards my goal of lifelong learning and completion of my Bachelor's degree.</p>
   <p>Here is a quote from WWF's website:</p>
-<blockquote cite="https://diversity.ncsu.edu/news/2019/09/13/why-we-must-understand-and-address-implicit-bias-2/#:~:text=Effects%20of%20Implicit%20Bias,in%20a%20number%20of%20ways.">
-  Implicit biases simultaneously advantage certain groups while disadvantaging others. These biases can be seen in university admissions, job recruiting and selection and even in the classroom. These biases greatly affect diversity in a number of ways.
-  </blockquote>
-<h2>What is implicit bias and why does it matter?
-  <a href="https://www.continu.com/blog/implicit-bias-training#:~:text=Implicit%20bias%20training%20is%20important,more%20inclusive%20and%20equitable%20environments."target="_blank"><i>Click Here</i></a></h2> <!--make sure the link is viable and opens correctly-->
-<!--three more links and possibly a more clean approach using tabs-->
-<h3>Where does Implicit Bias come from? <a href="https://www.aft.org/ae/winter2015-2016/staats."target="_blank"><i>See Here</i></a></h3>
-<h4>Who do I see as a tech "Hero?"<p> I have found Marc Andereesen quite instrumental in the way the world operates with computers. A kid from small town Iowa brought the power of the internet to the populations throught the first viable web browser which propelled our lust for information at a moments notice</p><a href="https://www.britannica.com/biography/Marc-Andreessen"target="_blank">BIO L</a></h4>
+<blockquote cite="https://diversity.ncsu.edu/news/2019/09/13/why-we-must-understand-and-address-implicit-bias-2/">
+  Implicit biases simultaneously advantage certain groups while disadvantaging others. These biases can be seen in university admissions, job recruiting and selection, and even in the classroom. These biases greatly affect diversity in a number of ways.
+</blockquote>
 
+<h2>What is implicit bias and why does it matter?
+  <a href="https://www.continu.com/blog/implicit-bias-training" target="_blank"><i>Click Here</i></a>
+</h2>
+
+<ul>
+  <li><h3>Where does Implicit Bias come from? <a href="https://www.aft.org/ae/winter2015-2016/staats" target="_blank"><i>See Here</i></a></h3></li>
+  <li><h4>Who do I see as a tech "Hero?"</h4>
+    <p>Marc Andreessen has been quite instrumental in shaping how the world operates with computers. Hailing from a small town in Iowa, he brought the power of the internet to the masses through the first viable web browser, igniting our desire for instant information.</p>
+    <a href="https://www.britannica.com/biography/Marc-Andreessen" target="_blank">Read Marc's Biography</a>
+  </li>
+</ul>
 
 
 <body>
