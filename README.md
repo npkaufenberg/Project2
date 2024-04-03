@@ -8,8 +8,13 @@
 <body>
 <h1 style="color:red">Embracing Continuous Growth and Learning</h1>
 <!-- Add a more descriptive image path -->
-<img src="path_to_your_image_on_the_web" alt="Me and the boys">
-<img src="path_to_another_image_on_the_web" alt="My wife and me">
+<img src="https://github.com/npkaufenberg/Project2/assets/165511887/735a59dd-f36a-48e9-986a-60622dcd432b"
+ alt="Me and the boys" width="300" height="200">
+<img src="https://github.com/npkaufenberg/Project2/assets/165511887/358d6e57-cc2a-4655-bd05-6d2ba2ad18a9" alt="My wife and me" width="300" height="200">
+<img src="https://github.com/npkaufenberg/Project2/assets/165511887/60ae0cb4-e6f0-484b-b1f7-cc700b0d577f"
+alt="Back of the C130" width="300" height="200">
+<img src="https://github.com/npkaufenberg/Project2/assets/165511887/7b19f5ff-e1ec-446d-bbaf-a7f322b0ab89" 
+alt="Airdrop C130" width="300" height="200">
 
 <p>My name is Nick Kaufenberg, and I am an Airman in the United States Air Force, currently pursuing my Bachelor's degree in Applied Social Sciences. My academic journey began in Boston, transitioned to Madison, and now, after a brief hiatus, I am determined to complete my degree. As a devoted husband and father of two, Roy and Malcolm, my life is a beautiful chaos that never ceases to amaze me. This course is another step towards my goal of lifelong learning and completion of my Bachelor's degree.</p>
   <p>Here is a quote from WWF's website:</p>
