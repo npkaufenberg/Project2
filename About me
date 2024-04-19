@@ -2,14 +2,17 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>About Me</title>
-<link rel="stylesheet" href="styles.css">
+<title>Nick Kaufenberg and his project webpage for LIS500 at the University of Wisconsin-Madison</title>
 </head>
 <body>
-<h1>About Me -- Nick Kaufenberg</h1>
+<h1 style="color:red">Embracing Continuous Growth and Learning</h1>
+<!-- Add a more descriptive image path -->
 <img src="https://github.com/npkaufenberg/Project2/assets/165511887/735a59dd-f36a-48e9-986a-60622dcd432b"
  alt="Me and the boys" width="300" height="200">
-<p>Greetings LIS500 facualty and students...My name is Nick Kaufenberg and I am an Applied Social Sciences major here at Madison. I began my collegiate journey in 2001 in Boston Massachussetts at Northeastern University. An interesting note about this time is my flight to Boston for orientation was scheduled to leave at 11:45 out of MSP on 9/11, 2001. I left school with 12 credits left to complete my Political Science and Legal Studies degree in 2005 after the unexpected passing of my dad. Since then, I have become a 15 year veteran in the United States Air Force as an aviator on the C-130's. I've completed culinary school at the Arts Institute- Minneapolis. Owned a successful food truck in the Twin Cities and opened a small bistro within a local brewery. All this could not be done without the support of my wife of 11 years and the unconditional love of my two sons, Roy and Mac.
-<br></br>
-</body>
-</html>
+<img src="https://github.com/npkaufenberg/Project2/assets/165511887/358d6e57-cc2a-4655-bd05-6d2ba2ad18a9" alt="My wife and me" width="300" height="200">
+<img src="https://github.com/npkaufenberg/Project2/assets/165511887/60ae0cb4-e6f0-484b-b1f7-cc700b0d577f"
+alt="Back of the C130" width="300" height="200">
+<img src="https://github.com/npkaufenberg/Project2/assets/165511887/7b19f5ff-e1ec-446d-bbaf-a7f322b0ab89" 
+alt="Airdrop C130" width="300" height="200">
+
+<p>My name is Nick Kaufenberg, and I am an Airman in the United States Air Force, currently pursuing my Bachelor's degree in Applied Social Sciences. My academic journey began in Boston, transitioned to Madison, and now, after a brief hiatus, I am determined to complete my degree. As a devoted husband and father of two, Roy and Malcolm, my life is a beautiful chaos that never ceases to amaze me. This course is another step towards my goal of lifelong learning and completion of my Bachelor's degree.</p>
